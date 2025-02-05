@@ -1,3 +1,22 @@
+# SAFEMARKET V3
+Migrating to Flex and UI/UX TypeScript JS
+![image](https://github.com/user-attachments/assets/1b101cf1-7752-403d-8787-b7e4dc63625e)
+
+![image](https://github.com/user-attachments/assets/8f267ff1-4ac2-4bbf-911c-05d5022cdc34)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Safemarket-SRC
 Safemarket V1 и V2, включающие 8 тысяч строк кода, базы данных и функции безопасности, а также текущую переработку Safemarket V3.
 
